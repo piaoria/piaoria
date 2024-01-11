@@ -7,7 +7,7 @@
 - 🧑‍🤝‍🧑 I want to make friends with everyone ...
 ```
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CodingLarva%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=CodingLarva🐛%3&fontSize=60&animation=scaleIn&fontColor=7DCEA0)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=piaoria&show_icons=true&theme=tokyonight)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={codinglarva})](https://solved.ac/{codinglarva})
