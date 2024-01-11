@@ -1,10 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=CodingLarva%20render)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CodingLarva%20render&fontSize=90)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=piaoria&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piaoria)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={codinglarva})](https://solved.ac/{codinglarva})
+![](https://img.shields.io/badge/파이썬-000000?style=flat&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/유니티-000000?style=flat&logo=Unity&logoColor=white)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%232C419E&title_bg=%23C2C2C2&icon=samsung.svg&icon_color=%232F3FB2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%232C419E&title_bg=%23C2C2C2&icon=samsung.svg&icon_color=%232F3FB2&title=hits&edge_flat=false)]([https://github.com/gjbae1212/hit-counter])
 ### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
