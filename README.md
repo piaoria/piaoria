@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=CodingLarva%20render)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piaoria)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piaoria)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={codinglarva})](https://solved.ac/{codinglarva})
 
